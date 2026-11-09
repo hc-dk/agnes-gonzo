@@ -1,0 +1,9 @@
+{
+  "name": "Agnes & Gonzo · Læseklub",
+  "short_name": "Agnes & Gonzo",
+  "start_url": "./agnes-og-gonzo.html",
+  "display": "standalone",
+  "background_color": "#f5f6f1",
+  "theme_color": "#18384a",
+  "icons": [{"src":"gonzo-klitmoeller.png","sizes":"512x512","type":"image/png","purpose":"any"}]
+}
